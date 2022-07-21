@@ -1,6 +1,4 @@
 ---
 home: true
-actionText: FAQ →
-actionLink: /faq/
-footer: Made by Nicholas Quezada with ❤️
+description: Hello and welcome to my resume page
 ---
